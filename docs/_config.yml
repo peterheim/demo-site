@@ -1,0 +1,5 @@
+title: Demo Jekyll Site
+description: A simple Jekyll site
+baseurl: /demo-site/
+url: https://peterheim.github.io
+theme: minima
