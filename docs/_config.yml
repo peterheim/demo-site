@@ -8,3 +8,8 @@ url: https://peterheim.github.io
 baseurl: /demo-site/
 
 theme: minima
+
+collections:
+  pages:
+    output: true
+    order: []
