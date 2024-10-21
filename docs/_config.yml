@@ -12,4 +12,5 @@ theme: minima
 collections:
   pages:
     output: true
-    order: []
+    order:
+      - tutorials.md
